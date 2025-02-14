@@ -1,6 +1,6 @@
 # Staffing-need-analysis
 Dahboard LInk:- https://drive.google.com/file/d/1B2xd1s_q4lZiM0nP2zte0iNNzXk8JgRo/view?usp=drive_link
-📌 Project Overview
+                                                                                                                                                                                                                  📌 Project Overview
 This project provides data-driven sales recommendations for Clipboard Health’s contract-based nursing staff services. The analysis identifies key gaps in staffing and optimizes workforce allocation to enhance revenue and operational efficiency.
 
 🔍 Key Insights & Findings
